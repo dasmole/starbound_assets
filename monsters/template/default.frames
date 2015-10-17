@@ -1,0 +1,11 @@
+{
+  "frameGrid" : {
+    "size" : [template_framewidth, template_frameheight],
+    "dimensions" : [template_frameswide, template_frameshigh],
+
+    "names" : [
+      [ null, "template.1", "template.2", "template.3", "template.4", null, null, null, null ],
+      [ null, "template.1", "template.2", "template.3", "template.4", null, null, null, null ]
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "template",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "template.png"
+  }
+}
